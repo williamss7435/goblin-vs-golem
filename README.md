@@ -10,7 +10,7 @@
 <p>É um projeto pessoal visando aprofundar o meu conhecimento em desenvolvimento de algoritmos, além de ganhar habilidades voltada a área de jogos. Fique a vontade para editar e usar o código!</p>
 <p>Obs: Todas as artes usadas nesse jogo foram disponibilizadas gratuitamente por artistas independentes, sou responsável apenas pelo código.</p>
 
-| [Clique aqui para ver os artistas](#credits) |
+| [Clique aqui para ver os créditos](#credits) |
 | --------------- |
 
 ## Gameplay e Detalhes
