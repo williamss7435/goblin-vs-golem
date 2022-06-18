@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FireGolem
+  m_EditorClassIdentifier: 
+  m_GroupName: FireGolem
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 74fb2e6741253574dabd14fa75b14690
+  m_SerializeEntries:
+  - m_GUID: 65daf858e89a6ab4b9bbf1454dc592b0
+    m_Address: Assets/Sprites/Units/FireGolem/Walk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FireGolemWalk
+    m_MainAsset: {fileID: 102900000, guid: 65daf858e89a6ab4b9bbf1454dc592b0, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 65daf858e89a6ab4b9bbf1454dc592b0, type: 3}
+  - m_GUID: 698305b8ca1351746b9ace54b98b7344
+    m_Address: Assets/Sprites/Units/FireGolem/Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FireGolemIdle
+    m_MainAsset: {fileID: 102900000, guid: 698305b8ca1351746b9ace54b98b7344, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 698305b8ca1351746b9ace54b98b7344, type: 3}
+  - m_GUID: a88246d41a66a6748840c662abd4bf25
+    m_Address: Assets/Sprites/Units/FireGolem/Death
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FireGolemDeath
+    m_MainAsset: {fileID: 102900000, guid: a88246d41a66a6748840c662abd4bf25, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: a88246d41a66a6748840c662abd4bf25, type: 3}
+  - m_GUID: c2634e6c7b05975499e17c1330ec9b6d
+    m_Address: Assets/Sprites/Units/FireGolem/Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FireGolemAttack
+    m_MainAsset: {fileID: 102900000, guid: c2634e6c7b05975499e17c1330ec9b6d, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: c2634e6c7b05975499e17c1330ec9b6d, type: 3}
+  - m_GUID: d34abe5661dd97f4dac50ad5addd1e56
+    m_Address: Assets/Sprites/Units/FireGolem/Hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FireGolemHit
+    m_MainAsset: {fileID: 102900000, guid: d34abe5661dd97f4dac50ad5addd1e56, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: d34abe5661dd97f4dac50ad5addd1e56, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0bc96eb6dc0761c4293fca7d46395dbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d3a568d7fe754834eba4c4a7f3c80fa9, type: 2}
+    - {fileID: 11400000, guid: 2abb16104862a10479badcbb82a2e8fc, type: 2}

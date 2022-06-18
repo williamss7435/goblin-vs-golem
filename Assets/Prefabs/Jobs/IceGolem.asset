@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1553ec9b1852a85458993a693072c14f, type: 3}
+  m_Name: IceGolem
+  m_EditorClassIdentifier: 
+  stats:
+  - type: 0
+    baseValue: 300
+    currentValue: 300
+    growth: 0
+  - type: 1
+    baseValue: 300
+    currentValue: 300
+    growth: 0
+  - type: 2
+    baseValue: 200
+    currentValue: 200
+    growth: 0
+  - type: 3
+    baseValue: 200
+    currentValue: 200
+    growth: 0
+  - type: 4
+    baseValue: 1
+    currentValue: 1
+    growth: 0
+  - type: 5
+    baseValue: 50
+    currentValue: 50
+    growth: 0
+  - type: 6
+    baseValue: 10
+    currentValue: 10
+    growth: 0
+  - type: 7
+    baseValue: 60
+    currentValue: 50
+    growth: 0
+  - type: 8
+    baseValue: 60
+    currentValue: 60
+    growth: 0
+  - type: 9
+    baseValue: 70
+    currentValue: 70
+    growth: 0
+  - type: 10
+    baseValue: 30
+    currentValue: 30
+    growth: 0
+  - type: 11
+    baseValue: 50
+    currentValue: 50
+    growth: 0
+  - type: 12
+    baseValue: 30
+    currentValue: 30
+    growth: 0
+  - type: 13
+    baseValue: 4
+    currentValue: 4
+    growth: 0
+  skills:
+  - {fileID: 5792933798089509551, guid: 1adf661cb0802984196121fb62efdf3b, type: 3}
+  - {fileID: 5792933798089509551, guid: 1b7a84be4cf765b47a37d15daf863e2e, type: 3}
+  portrait: {fileID: 21300000, guid: fca7db78edf2a7e4abf759135dffefb9, type: 3}
+  description: 
+  AISkillPicks: {fileID: 3073000856368471969, guid: a246ed296161b8241859e4f17a40afb4,
+    type: 3}

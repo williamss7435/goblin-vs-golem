@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1553ec9b1852a85458993a693072c14f, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  stats:
+  - type: 0
+    baseValue: 300
+    currentValue: 300
+    growth: 0
+  - type: 1
+    baseValue: 300
+    currentValue: 300
+    growth: 0
+  - type: 2
+    baseValue: 100
+    currentValue: 100
+    growth: 0
+  - type: 3
+    baseValue: 100
+    currentValue: 100
+    growth: 0
+  - type: 4
+    baseValue: 1
+    currentValue: 0
+    growth: 0
+  - type: 5
+    baseValue: 55
+    currentValue: 0
+    growth: 0
+  - type: 6
+    baseValue: 15
+    currentValue: 0
+    growth: 0
+  - type: 7
+    baseValue: 10
+    currentValue: 0
+    growth: 0
+  - type: 8
+    baseValue: 35
+    currentValue: 35
+    growth: 0
+  - type: 9
+    baseValue: 50
+    currentValue: 0
+    growth: 0
+  - type: 10
+    baseValue: 20
+    currentValue: 0
+    growth: 0
+  - type: 11
+    baseValue: 30
+    currentValue: 0
+    growth: 0
+  - type: 12
+    baseValue: 40
+    currentValue: 0
+    growth: 0
+  - type: 13
+    baseValue: 5
+    currentValue: 5
+    growth: 0
+  skills:
+  - {fileID: 5792933798089509551, guid: 1adf661cb0802984196121fb62efdf3b, type: 3}
+  - {fileID: 5792933798089509551, guid: e0a6b517429ed2b49a9d35fcd45ad471, type: 3}
+  - {fileID: 5792933798089509551, guid: 28ba6f666ed246c45ae6b9f4fccd6b2a, type: 3}
+  portrait: {fileID: 21300000, guid: eb8c1365c008ad0499cb5a76e12bacaa, type: 3}
+  description: 
+  AISkillPicks: {fileID: 3073000856368471969, guid: c963592a896b1bc4c9fa5ee6c3fc8b0f,
+    type: 3}

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: IceGolem
+  m_EditorClassIdentifier: 
+  m_GroupName: IceGolem
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 543e8f10d1e86714fa581cf23b22ab89
+  m_SerializeEntries:
+  - m_GUID: 16092ab35d5ebb249b80dea292bb78e7
+    m_Address: Assets/Sprites/Units/IceGolem/Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IceGolemIdle
+    m_MainAsset: {fileID: 102900000, guid: 16092ab35d5ebb249b80dea292bb78e7, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 16092ab35d5ebb249b80dea292bb78e7, type: 3}
+  - m_GUID: 23ce69bc7261d0a429d8f56593dbcfa4
+    m_Address: Assets/Sprites/Units/IceGolem/Hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IceGolemHit
+    m_MainAsset: {fileID: 102900000, guid: 23ce69bc7261d0a429d8f56593dbcfa4, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 23ce69bc7261d0a429d8f56593dbcfa4, type: 3}
+  - m_GUID: a9ae4a434927cf749aaa176604d37a80
+    m_Address: Assets/Sprites/Units/IceGolem/Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IceGolemAttack
+    m_MainAsset: {fileID: 102900000, guid: a9ae4a434927cf749aaa176604d37a80, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: a9ae4a434927cf749aaa176604d37a80, type: 3}
+  - m_GUID: b853c0083f179ad488c413fd028181e5
+    m_Address: Assets/Sprites/Units/IceGolem/Death
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IceGolemDeath
+    m_MainAsset: {fileID: 102900000, guid: b853c0083f179ad488c413fd028181e5, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: b853c0083f179ad488c413fd028181e5, type: 3}
+  - m_GUID: da0a758f18ff46c44952e8c1ffa51631
+    m_Address: Assets/Sprites/Units/IceGolem/Walk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - IceGolemWalk
+    m_MainAsset: {fileID: 102900000, guid: da0a758f18ff46c44952e8c1ffa51631, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: da0a758f18ff46c44952e8c1ffa51631, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0bc96eb6dc0761c4293fca7d46395dbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 062e225a329eb2141b5b488fcb8a222f, type: 2}
+    - {fileID: 11400000, guid: 063867480c042824da6635e5b1f63a79, type: 2}

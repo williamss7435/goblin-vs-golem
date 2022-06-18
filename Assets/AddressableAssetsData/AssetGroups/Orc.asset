@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  m_GroupName: Orc
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f6f94a4a16eef2b49b66b144a496532f
+  m_SerializeEntries:
+  - m_GUID: 2329903e244f8004d8f8e87403e83d3d
+    m_Address: Assets/Sprites/Units/Orc/Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OrcAttack
+    m_MainAsset: {fileID: 102900000, guid: 2329903e244f8004d8f8e87403e83d3d, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 2329903e244f8004d8f8e87403e83d3d, type: 3}
+  - m_GUID: 4a82f5dbade8a4d49a147fdf1c5d69e5
+    m_Address: Assets/Sprites/Units/Orc/Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OrcIdle
+    m_MainAsset: {fileID: 102900000, guid: 4a82f5dbade8a4d49a147fdf1c5d69e5, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 4a82f5dbade8a4d49a147fdf1c5d69e5, type: 3}
+  - m_GUID: 5a20997ed97675c4d8a92e3f65aade9b
+    m_Address: Assets/Sprites/Units/Orc/Walk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OrcWalk
+    m_MainAsset: {fileID: 102900000, guid: 5a20997ed97675c4d8a92e3f65aade9b, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 5a20997ed97675c4d8a92e3f65aade9b, type: 3}
+  - m_GUID: 8f44264d35c880f4e85cca1fa8b2d850
+    m_Address: Assets/Sprites/Units/Orc/Death
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OrcDeath
+    m_MainAsset: {fileID: 102900000, guid: 8f44264d35c880f4e85cca1fa8b2d850, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 8f44264d35c880f4e85cca1fa8b2d850, type: 3}
+  - m_GUID: f73c8231cef194a45acf834b131dcc06
+    m_Address: Assets/Sprites/Units/Orc/Hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OrcHit
+    m_MainAsset: {fileID: 102900000, guid: f73c8231cef194a45acf834b131dcc06, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: f73c8231cef194a45acf834b131dcc06, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0bc96eb6dc0761c4293fca7d46395dbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 379ec1120ee3ac54b9556a3251dfcfe7, type: 2}
+    - {fileID: 11400000, guid: 1e62e11dde837ed43af49429389fe34c, type: 2}

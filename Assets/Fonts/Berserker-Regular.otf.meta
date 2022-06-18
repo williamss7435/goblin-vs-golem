@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f1d22b1d15a27124e9602d3f902971dc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Berserker
+  fontNames:
+  - Berserker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 510db06ae10504d479e8a8085c44ec15, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Ogre
+  m_EditorClassIdentifier: 
+  m_GroupName: Ogre
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 919aaea8a85d76344b1d342d4fdaf5a3
+  m_SerializeEntries:
+  - m_GUID: 8fdac36c06f54404e9afa9142d5d5fc3
+    m_Address: Assets/Sprites/Units/Ogre/Death
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OgreDeath
+    m_MainAsset: {fileID: 102900000, guid: 8fdac36c06f54404e9afa9142d5d5fc3, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 8fdac36c06f54404e9afa9142d5d5fc3, type: 3}
+  - m_GUID: 98c982dea41602642a8d93a7348486e0
+    m_Address: Assets/Sprites/Units/Ogre/Hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OgreHit
+    m_MainAsset: {fileID: 102900000, guid: 98c982dea41602642a8d93a7348486e0, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 98c982dea41602642a8d93a7348486e0, type: 3}
+  - m_GUID: b5c14bee667c055418330fd7d5a4ef23
+    m_Address: Assets/Sprites/Units/Ogre/Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OgreAttack
+    m_MainAsset: {fileID: 102900000, guid: b5c14bee667c055418330fd7d5a4ef23, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: b5c14bee667c055418330fd7d5a4ef23, type: 3}
+  - m_GUID: bf5fcd75b831a2045ae660c0b6f336d1
+    m_Address: Assets/Sprites/Units/Ogre/Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OgreIdle
+    m_MainAsset: {fileID: 102900000, guid: bf5fcd75b831a2045ae660c0b6f336d1, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: bf5fcd75b831a2045ae660c0b6f336d1, type: 3}
+  - m_GUID: ee1bf39246df1fd49a7bfdf118bb8b64
+    m_Address: Assets/Sprites/Units/Ogre/Walk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - OgreWalk
+    m_MainAsset: {fileID: 102900000, guid: ee1bf39246df1fd49a7bfdf118bb8b64, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: ee1bf39246df1fd49a7bfdf118bb8b64, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0bc96eb6dc0761c4293fca7d46395dbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f69c74bfd09d58045b4b532346c0e3cf, type: 2}
+    - {fileID: 11400000, guid: 3dd78e3323e5a324189c865d456fa262, type: 2}

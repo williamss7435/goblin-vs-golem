@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: EarthGolem
+  m_EditorClassIdentifier: 
+  m_GroupName: EarthGolem
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6f77dbcb466d3844b8838c229f08e057
+  m_SerializeEntries:
+  - m_GUID: 0dd36676927f3954492523d863fb8b71
+    m_Address: Assets/Sprites/Units/EarthGolem/Death
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EarthGolemDeath
+    m_MainAsset: {fileID: 102900000, guid: 0dd36676927f3954492523d863fb8b71, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 0dd36676927f3954492523d863fb8b71, type: 3}
+  - m_GUID: 2b507167ef3dfe8478bcb177de13ed7c
+    m_Address: Assets/Sprites/Units/EarthGolem/Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EarthGolemIdle
+    m_MainAsset: {fileID: 102900000, guid: 2b507167ef3dfe8478bcb177de13ed7c, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 2b507167ef3dfe8478bcb177de13ed7c, type: 3}
+  - m_GUID: 7a0098866686cd345ab04b02d779404e
+    m_Address: Assets/Sprites/Units/EarthGolem/Walk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EarthGolemWalk
+    m_MainAsset: {fileID: 102900000, guid: 7a0098866686cd345ab04b02d779404e, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 7a0098866686cd345ab04b02d779404e, type: 3}
+  - m_GUID: 7c202ee121b864a45a365fbbdb6c7462
+    m_Address: Assets/Sprites/Units/EarthGolem/Hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EarthGolemHit
+    m_MainAsset: {fileID: 102900000, guid: 7c202ee121b864a45a365fbbdb6c7462, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 7c202ee121b864a45a365fbbdb6c7462, type: 3}
+  - m_GUID: dff29e895cceb5a4d85478f036e0e489
+    m_Address: Assets/Sprites/Units/EarthGolem/Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - EarthGolemAttack
+    m_MainAsset: {fileID: 102900000, guid: dff29e895cceb5a4d85478f036e0e489, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: dff29e895cceb5a4d85478f036e0e489, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0bc96eb6dc0761c4293fca7d46395dbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: adbca82fd47aba545b3ef05f8d42abb3, type: 2}
+    - {fileID: 11400000, guid: 3f7eea00ff6cbbb4abf044cb48b02cec, type: 2}

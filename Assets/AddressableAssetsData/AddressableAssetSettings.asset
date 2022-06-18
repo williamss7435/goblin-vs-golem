@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
+  m_Name: AddressableAssetSettings
+  m_EditorClassIdentifier: 
+  m_DefaultGroup: 77e7b71b32efb044e89a8b898f42e2c1
+  m_BuildRemoteCatalog: 0
+  m_BundleLocalCatalog: 0
+  m_DisableCatalogUpdateOnStart: 0
+  m_UniqueBundleIds: 0
+  m_RemoteCatalogBuildPath:
+    m_Id: 
+  m_RemoteCatalogLoadPath:
+    m_Id: 
+  m_overridePlayerVersion: 
+  m_GroupAssets:
+  - {fileID: 11400000, guid: 71974607a821cc04ea07e26daf7e7d83, type: 2}
+  - {fileID: 11400000, guid: 74e1a205d28c00047a247bb0569f46b3, type: 2}
+  - {fileID: 11400000, guid: e5c659881f8bb9d4e83a867934c04e68, type: 2}
+  - {fileID: 11400000, guid: fd229c69a89bc0846bbc08a7a737cbbd, type: 2}
+  - {fileID: 11400000, guid: 5573f5159b295254d9289bb97de50ad7, type: 2}
+  - {fileID: 11400000, guid: 8c75761f14c2aac4aacbdb21b58fd5c2, type: 2}
+  - {fileID: 11400000, guid: f5202d3e71a4a5c4ea66a07ac69e77ef, type: 2}
+  - {fileID: 11400000, guid: 138774befb781414899c9bc3f33affd9, type: 2}
+  m_BuildSettings:
+    m_CompileScriptsInVirtualMode: 0
+    m_CleanupStreamingAssetsAfterBuilds: 1
+    m_LogResourceManagerExceptions: 1
+    m_BundleBuildPath: Temp/com.unity.addressables/AssetBundles
+  m_ProfileSettings:
+    m_Profiles:
+    - m_InheritedParent: 
+      m_Id: 4ce867384cb886a4ba39e3e7016520cd
+      m_ProfileName: Default
+      m_Values:
+      - m_Id: e796a16938103cd4cbfe32a45efadb2b
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: fe633595fa8d33e44aaf72c38f754103
+        m_Value: '[UnityEngine.AddressableAssets.Addressables.BuildPath]/[BuildTarget]'
+      - m_Id: 0c628ed38372a6b4bb61bfa9098d0f11
+        m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
+      - m_Id: 1cd0880bfc16d6e42887533b6f8a2f37
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 11495c899e5a7db45afa026eddabf063
+        m_Value: http://localhost/[BuildTarget]
+    m_ProfileEntryNames:
+    - m_Id: e796a16938103cd4cbfe32a45efadb2b
+      m_Name: BuildTarget
+      m_InlineUsage: 0
+    - m_Id: fe633595fa8d33e44aaf72c38f754103
+      m_Name: LocalBuildPath
+      m_InlineUsage: 0
+    - m_Id: 0c628ed38372a6b4bb61bfa9098d0f11
+      m_Name: LocalLoadPath
+      m_InlineUsage: 0
+    - m_Id: 1cd0880bfc16d6e42887533b6f8a2f37
+      m_Name: RemoteBuildPath
+      m_InlineUsage: 0
+    - m_Id: 11495c899e5a7db45afa026eddabf063
+      m_Name: RemoteLoadPath
+      m_InlineUsage: 0
+    m_ProfileVersion: 1
+  m_LabelTable:
+    m_LabelNames:
+    - default
+    - IceGolemIdle
+    - IceGolemWalk
+    - IceGolemHit
+    - IceGolemAttack
+    - IceGolemDeath
+    - GoblinIdle
+    - GoblinWalk
+    - GoblinHit
+    - GoblinAttack
+    - GoblinDeath
+    - FireGolemIdle
+    - FireGolemWalk
+    - FireGolemHit
+    - FireGolemAttack
+    - FireGolemDeath
+    - EarthGolemIdle
+    - EarthGolemWalk
+    - EarthGolemHit
+    - EarthGolemAttack
+    - EarthGolemDeath
+    - OrcIdle
+    - OrcWalk
+    - OrcHit
+    - OrcAttack
+    - OrcDeath
+    - OgreIdle
+    - OgreWalk
+    - OgreHit
+    - OgreAttack
+    - OgreDeath
+  m_SchemaTemplates: []
+  m_GroupTemplateObjects:
+  - {fileID: 11400000, guid: ea48e85e732f72441a90ca649a95884c, type: 2}
+  m_InitializationObjects: []
+  m_CertificateHandlerType:
+    m_AssemblyName: 
+    m_ClassName: 
+  m_ActivePlayerDataBuilderIndex: 3
+  m_DataBuilders:
+  - {fileID: 11400000, guid: 2d448a0eb51b1014c8bfb852e10666a8, type: 2}
+  - {fileID: 11400000, guid: 36e24a7b34bb3a54f9969c4c095e4aa3, type: 2}
+  - {fileID: 11400000, guid: 23d1b3f76cb4e5f448c0d18f2c040182, type: 2}
+  - {fileID: 11400000, guid: 718634dc0c3765c4d976a751f84fe884, type: 2}
+  m_ActiveProfileId: 4ce867384cb886a4ba39e3e7016520cd
+  m_HostingServicesManager:
+    m_HostingServiceInfos: []
+    m_Settings: {fileID: 11400000}
+    m_NextInstanceId: 0
+    m_RegisteredServiceTypeRefs: []

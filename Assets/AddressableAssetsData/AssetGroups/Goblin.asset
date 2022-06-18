@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  m_GroupName: Goblin
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f11e23087c64f1c4f8c28e050a4db0a4
+  m_SerializeEntries:
+  - m_GUID: 349c7a8d099cce947944aa437bdfa0d4
+    m_Address: Assets/Sprites/Units/Goblin/Hit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GoblinHit
+    m_MainAsset: {fileID: 102900000, guid: 349c7a8d099cce947944aa437bdfa0d4, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 349c7a8d099cce947944aa437bdfa0d4, type: 3}
+  - m_GUID: 615e6d283b99fe14fa4d1b46eeb73c7d
+    m_Address: Assets/Sprites/Units/Goblin/Attack
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GoblinAttack
+    m_MainAsset: {fileID: 102900000, guid: 615e6d283b99fe14fa4d1b46eeb73c7d, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 615e6d283b99fe14fa4d1b46eeb73c7d, type: 3}
+  - m_GUID: 7c49308430e84fc4f869629f82cd6925
+    m_Address: Assets/Sprites/Units/Goblin/Walk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GoblinWalk
+    m_MainAsset: {fileID: 102900000, guid: 7c49308430e84fc4f869629f82cd6925, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: 7c49308430e84fc4f869629f82cd6925, type: 3}
+  - m_GUID: cbf772d160323e84fa53747e44e3e06a
+    m_Address: Assets/Sprites/Units/Goblin/Idle
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GoblinIdle
+    m_MainAsset: {fileID: 102900000, guid: cbf772d160323e84fa53747e44e3e06a, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: cbf772d160323e84fa53747e44e3e06a, type: 3}
+  - m_GUID: e619c68496983934ebc4af4b38f06213
+    m_Address: Assets/Sprites/Units/Goblin/Death
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GoblinDeath
+    m_MainAsset: {fileID: 102900000, guid: e619c68496983934ebc4af4b38f06213, type: 3}
+    m_TargetAsset: {fileID: 102900000, guid: e619c68496983934ebc4af4b38f06213, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0bc96eb6dc0761c4293fca7d46395dbd, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e21a5c678899c3c46becdce230cac324, type: 2}
+    - {fileID: 11400000, guid: 4e4ff77c3ab9c1047a7cd40cceeef5a3, type: 2}
