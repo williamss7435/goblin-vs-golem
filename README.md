@@ -1,11 +1,17 @@
 # Goblin Vs Golem
 ![Banner](uploads/01-start-menu.gif)
 
+| [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
+| -------- | ----------- |
+
 <p>Goblin Vs Golem é um jogo eletrônico de táticas por turnos criado por mim. O Objetivo do jogo é derrotar todos os golem através de uma batalha no deserto.</p>
 
 ## O que é o Goblin Vs Golem ?
 <p>É um projeto pessoal visando aprofundar o meu conhecimento em desenvolvimento de algoritmos, além de ganhar habilidades voltada a área de jogos. Fique a vontade para editar e usar o código!</p>
 <p>Obs: Todas as artes usadas nesse jogo foram disponibilizadas gratuitamente por artistas independentes, sou responsável apenas pelo código.</p>
+
+| [Clique aqui para ver os artistas](#credits) |
+| --------------- |
 
 ## Gameplay e Detalhes
 ### Unity
@@ -41,7 +47,7 @@
 </p>
 <p>A inteligência artificial faz a escolha de movimento a partir das unidades próxima e escolhe um dos seus ataques aleatórios.</p>
 
-## Creditos
+## Credits
 <p>O desenvolvimento de um jogo é um trabalho muito árduo, graças as esses artistas não precisei criar nenhuma imagem, música ou efeito.</p>
 <p>The development of a game is a very hard work, thanks to these artists I didn't have to create any images, music or effects.</p>
 
