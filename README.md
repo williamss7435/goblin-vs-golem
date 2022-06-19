@@ -13,6 +13,21 @@
 | [Clique aqui para ver os créditos](#credits) |
 | --------------- |
 
+## Screenshots
+<p align="center">
+  <img src="uploads/Screenshot1.png"/>
+</p>
+<p align="center">
+  <img src="uploads/Screenshot2.png"/>
+</p>
+<p align="center">
+  <img src="uploads/Screenshot3.png"/>
+</p>
+
+## Download
+<p>Para jogar faça o download abaixo, extraia os arquivos e clique no arquivo "GoblinVsGolem"</p>
+<a href="https://github.com/williamss7435/goblin-vs-golem/raw/main/uploads/GoblinVsGolem.zip" download>Clique aqui para fazer o download do jogo</a>
+
 ## Gameplay e Detalhes
 ### Unity
 <p align="center">
